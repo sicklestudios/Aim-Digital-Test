@@ -11,6 +11,14 @@ This project demonstrates a simple yet powerful implementation of a login screen
 - **Logout Functionality**: Allows users to log out and return to the login screen.
 - **Responsive UI**: The UI is designed to be responsive and look good on different screen sizes.
 
+## Note
+ **The Firebase is currently configured and the app can be tested by just cloning and running the application.**
+ -Test Credential
+    '''
+    email: haris@gmail.com
+    password: 123456
+    ''''
+-The Application will create a new user when a new email is entered
 ## Installation
 
 1. **Clone the repository**:
@@ -21,7 +29,7 @@ This project demonstrates a simple yet powerful implementation of a login screen
 
 2. **Set up Firebase**:
    - Follow the [official Firebase documentation](https://firebase.flutter.dev/docs/overview) to configure Firebase for your Flutter project.
-   - Add `google-services.json` (for Android) and `GoogleService-Info.plist` (for iOS) to the respective directories.
+   - Use Flutter Fire CLI to register your apps to firebase
 
 3. **Install dependencies**:
     ```bash
@@ -33,5 +41,5 @@ This project demonstrates a simple yet powerful implementation of a login screen
     flutter run
     ```
 
-## Project Structure
+
 
