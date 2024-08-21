@@ -14,10 +14,10 @@ This project demonstrates a simple yet powerful implementation of a login screen
 ## Note
  **The Firebase is currently configured and the app can be tested by just cloning and running the application.**
  -Test Credential
-    '''bash
+     ```bash
     email: haris@gmail.com
     password: 123456
-    ''''
+     ```
 -The Application will create a new user when a new email is entered
 ## Installation
 
