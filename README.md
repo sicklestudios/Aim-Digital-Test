@@ -12,13 +12,16 @@ This project demonstrates a simple yet powerful implementation of a login screen
 - **Responsive UI**: The UI is designed to be responsive and look good on different screen sizes.
 
 ## Note
- **The Firebase is currently configured and the app can be tested by just cloning and running the application.**
- -Test Credential:
+ **Firebase is already configured, so you can test the app by cloning and running it.**
+
+- **Test Credentials**:
     ```
-      email: haris@gmail.com
-      password: 123456
+    Email: haris@gmail.com
+    Password: 123456
     ```
--The Application will create a new user when a new email is entered
+
+- The application will create a new user when a new email is entered.
+
 ## Installation
 
 1. **Clone the repository**:
