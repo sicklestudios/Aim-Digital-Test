@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510085202270",
+    "project_id": "aim-digital-d3045",
+    "storage_bucket": "aim-digital-d3045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510085202270:android:f33ce00eb2e23cf4e34fcf",
+        "android_client_info": {
+          "package_name": "com.aim.digital.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTqiZye48TCH9U0MS8YgCVAaJb-6a-tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
